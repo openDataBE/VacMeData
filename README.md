@@ -43,7 +43,7 @@ Update periodicy: This csv file is updated every 15 minutes.<br>
 | **totalSingleVaccinated**           | Total single vaccinated                 | Number              | 172046                    | Vaccination Data GSI |
 | **totalDoubleVaccinated**           | Total double vaccinated                 | Number              | 166562                    | Vaccination Data GSI |
 | **totalVaccinationsLastWeek**       | Total vaccinated last week              | Number              | 21247                     | Vaccination Data GSI |
-| **totalVaccinationsSecondLastWeek** | Total vaccinated last two weeks         | Number              | 67903                     | Vaccination Data GSI |
+| **totalVaccinationsSecondLastWeek** | Total vaccinated the week before last   | Number              | 67903                     | Vaccination Data GSI |
 | **freeSlots**                       | Total free vaccination appointments     | Number              | 415                       | Vaccination Data GSI |
 
 ## Chart: 2. Vaccinations by district (Verwaltungskreis)
